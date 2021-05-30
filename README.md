@@ -1,0 +1,2 @@
+# arrayusepointer
+created by prashant
